@@ -40,7 +40,7 @@
 
 .. literalinclude:: /_src/practices/cgo/callee.h
     :caption:
-    :name: caller.go
+    :name: cgo/caller.h
     :language: c
     :linenos:
 
@@ -48,7 +48,7 @@
 
 .. literalinclude:: /_src/practices/cgo/callee.c
     :caption:
-    :name: caller.go
+    :name: cgo/caller.c
     :language: c
     :linenos:
 
@@ -76,7 +76,7 @@
 
 .. literalinclude:: /_src/practices/cgo/caller.go
     :caption:
-    :name: caller.go
+    :name: cgo/caller.go
     :language: go
     :linenos:
 
@@ -119,7 +119,7 @@
 
 .. literalinclude:: /_src/practices/cgo/Makefile
     :caption:
-    :name: caller.go
+    :name: cgo/Makefile
     :language: makefile
     :linenos:
 

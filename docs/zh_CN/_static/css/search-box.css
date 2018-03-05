@@ -6,7 +6,7 @@
     overflow: hidden;
 }
 
-#searchbox .search input {
+#searchbox .search div {
     display: inline-block;
 }
 
