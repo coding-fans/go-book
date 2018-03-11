@@ -86,7 +86,7 @@ html_theme = 'alabaster'
 html_theme_options = {
     'logo': 'logo.jpg',
     #'logo_name': True,
-    'description': u'简明Go语言小册子，涵盖基础语法、代码风格以及最贱实践。',
+    'description': u'简明Go语言小册子，涵盖基础语法、代码风格以及最佳实践。',
 
     'font_family': ','.join(map(repr, [
         'Arial',

@@ -21,6 +21,7 @@ Go语言小册
    :maxdepth: 3
 
     关于 <about/index>
+    快速开始 <quick-start/index>
     最佳实践 <practices/index>
 
 
