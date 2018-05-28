@@ -22,9 +22,8 @@ Go语言小册
 
     关于 <about/index>
     快速开始 <quick-start/index>
+    Go之旅 <tour/index>
     最佳实践 <practices/index>
-
-
 
 .. comments
     comment something out below
