@@ -1,5 +1,5 @@
 .. 函数
-    FileName:   function.rst
+    FileName:   functions.rst
     Author:     Fasion Chan
     Created:    2018-05-28 15:03:41
     @contact:   fasionchan@gmail.com
@@ -20,7 +20,7 @@
 
 .. literalinclude:: /_src/tour/functions.go
     :caption:
-    :name: tour/package.go
+    :name: tour/functions.go
     :language: go
     :lines: 13-25
     :linenos:
@@ -40,7 +40,7 @@
 
 .. literalinclude:: /_src/tour/multiple-results.go
     :caption:
-    :name: tour/package.go
+    :name: tour/multiple-results.go
     :language: go
     :lines: 13-26
     :linenos:
@@ -53,7 +53,7 @@
 
 .. literalinclude:: /_src/tour/named-results.go
     :caption:
-    :name: tour/package.go
+    :name: tour/named-results.go
     :language: go
     :lines: 13-27
     :linenos:
@@ -64,6 +64,8 @@
 
 下一步
 ======
+
+:doc:`下一节 <variables>` 我们一起来看看 `Go` 语言 :doc:`variables` 。
 
 .. include:: /_fragments/next-step-to-wechat-mp.rst
 

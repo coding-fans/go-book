@@ -18,11 +18,11 @@ Go语言小册
 ==========
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
 
     关于 <about/index>
     快速开始 <quick-start/index>
-    Go之旅 <tour/index>
+    Go语言之旅 <tour/index>
     最佳实践 <practices/index>
 
 .. comments

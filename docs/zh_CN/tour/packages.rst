@@ -1,5 +1,5 @@
 .. 包
-    FileName:   package.rst
+    FileName:   packages.rst
     Author:     Fasion Chan
     Created:    2018-05-28 14:36:54
     @contact:   fasionchan@gmail.com
@@ -32,6 +32,8 @@
 按照惯例，包名与包路径最后部分相同。
 例如， ``math/rand`` 包中的源码文件都以 ``package rand`` 语句开头。
 
+.. _import-statement:
+
 import语句
 ==========
 
@@ -55,7 +57,7 @@ import语句
 
 .. literalinclude:: /_src/tour/exported-names.go
     :caption:
-    :name: tour/package.go
+    :name: tour/exported-names.go
     :language: go
     :lines: 13-24
     :linenos:
@@ -67,6 +69,8 @@ import语句
 
 下一步
 ======
+
+:doc:`下一节 <functions>` 我们一起来看看 `Go` 语言 :doc:`functions` 。
 
 .. include:: /_fragments/next-step-to-wechat-mp.rst
 
