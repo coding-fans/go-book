@@ -10,7 +10,6 @@
     Changelog:
 
 .. meta::
-    :description lang=zh:
     :keywords: golang, switch, go语言, switch语句
 
 ===========
@@ -76,6 +75,8 @@ switch 语句
 .. include:: /_fragments/next-step-to-wechat-mp.rst
 
 .. include:: /_fragments/wechat-reward.rst
+
+.. include:: /_fragments/disqus.rst
 
 .. comments
     comment something out below

@@ -93,6 +93,8 @@ for 语句
 
 .. include:: /_fragments/wechat-reward.rst
 
+.. include:: /_fragments/disqus.rst
+
 .. comments
     comment something out below
 

@@ -78,16 +78,14 @@
 下一步
 ======
 
-:doc:`下一节 <index>` 我们一起来看看 `Go` 语言 :doc:`index` 。
+:doc:`下一节 <index>` 我们一起来看看 `Go` 语言 :doc:`methods` 。
 
 .. include:: /_fragments/next-step-to-wechat-mp.rst
 
 .. include:: /_fragments/wechat-reward.rst
 
+.. include:: /_fragments/disqus.rst
+
 .. comments
     comment something out below
-
-    .. meta::
-        :description lang=zh:
-        :keywords:
 

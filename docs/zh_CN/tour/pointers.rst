@@ -33,7 +33,7 @@
     i := 42
     p = &i
 
-操作符 ``*`` 来用取出指针指向的值：
+操作符 ``*`` 用来取出指针指向的值：
 
 .. code-block:: go
 
@@ -61,6 +61,8 @@
 .. include:: /_fragments/next-step-to-wechat-mp.rst
 
 .. include:: /_fragments/wechat-reward.rst
+
+.. include:: /_fragments/disqus.rst
 
 .. comments
     comment something out below

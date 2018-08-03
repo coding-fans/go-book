@@ -283,6 +283,8 @@ make
 
 .. include:: /_fragments/wechat-reward.rst
 
+.. include:: /_fragments/disqus.rst
+
 .. _append: https://golang.org/pkg/builtin/#append
 .. _make: https://golang.org/pkg/builtin/#make
 

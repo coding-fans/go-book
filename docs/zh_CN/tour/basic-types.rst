@@ -10,8 +10,7 @@
     Changelog:
 
 .. meta::
-    :description lang=zh:
-    :keywords:
+    :keywords: golang, 基本类型, 零值, 类型转换, 类型推理, zero value
 
 ========
 基本类型
@@ -142,6 +141,8 @@
 .. include:: /_fragments/next-step-to-wechat-mp.rst
 
 .. include:: /_fragments/wechat-reward.rst
+
+.. include:: /_fragments/disqus.rst
 
 .. comments
     comment something out below

@@ -33,3 +33,4 @@ Go语言之旅
     切片 <slices>
     映射表 <maps>
     函数值 <function-values>
+    方法 <methods>
