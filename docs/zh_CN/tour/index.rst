@@ -1,4 +1,4 @@
-.. Go之旅
+.. Go语言之旅
     FileName:   index.rst
     Author:     Fasion Chan
     Created:    2018-05-28 22:08:43
@@ -9,13 +9,11 @@
 
     Changelog:
 
-.. _a-tour-of-go:
+==========
+Go语言之旅
+==========
 
-======
-Go之旅
-======
-
-欢迎来到 :ref:`a-tour-of-go` ，这是一次奇妙的旅程！
+欢迎来到 :doc:`index` ，这是一次奇妙的旅程！
 
 .. toctree::
    :maxdepth: 1
@@ -29,3 +27,9 @@ Go之旅
     if 语句 <if>
     switch 语句 <switch>
     defer 语句 <defer>
+    指针 <pointers>
+    结构体 <structs>
+    数组 <arrays>
+    切片 <slices>
+    映射表 <maps>
+    函数值 <function-values>

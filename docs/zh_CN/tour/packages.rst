@@ -24,7 +24,7 @@
     :caption:
     :name: tour/package.go
     :language: go
-    :lines: 13-23
+    :lines: 13-
     :linenos:
 
 在这个程序，通过 import 导入两个包， ``fmt`` 和 ``math/rand`` (包路径)。
@@ -59,7 +59,7 @@ import语句
     :caption:
     :name: tour/exported-names.go
     :language: go
-    :lines: 13-24
+    :lines: 13-
     :linenos:
 
 相反， ``pizza`` 和 ``pi`` 由于不是大写字母开头，因此不会被导出。

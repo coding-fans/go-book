@@ -46,6 +46,8 @@ defer栈
 下一步
 ======
 
+:doc:`下一节 <pointers>` 我们一起来看看 `Go` 语言 :doc:`pointers` 。
+
 .. include:: /_fragments/next-step-to-wechat-mp.rst
 
 .. include:: /_fragments/wechat-reward.rst

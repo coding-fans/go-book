@@ -16,7 +16,7 @@
 if 语句
 =======
 
-跟 :doc:`for` 一样， `if` 语句条件表达式不需要括号包围，但是花括号缺不能省略。
+跟 :doc:`for` 一样， `if` 语句条件表达式不需要括号包围，但是花括号却不能省略。
 
 .. literalinclude:: /_src/tour/if.go
     :caption:

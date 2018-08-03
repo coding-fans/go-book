@@ -49,6 +49,8 @@
     :lines: 13-23
     :linenos:
 
+.. _variables-short-declaration:
+
 简式申明
 ========
 
