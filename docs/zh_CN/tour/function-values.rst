@@ -9,6 +9,9 @@
 
     Changelog:
 
+.. meta::
+    :keywords: golang, 函数值, 闭包, function value, closure
+
 ======
 函数值
 ======

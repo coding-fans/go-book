@@ -9,6 +9,9 @@
 
     Changelog:
 
+.. meta::
+    :keywords: golang, 指针, pointer
+
 ====
 指针
 ====
@@ -61,8 +64,4 @@
 
 .. comments
     comment something out below
-
-    .. meta::
-        :description lang=zh:
-        :keywords:
 

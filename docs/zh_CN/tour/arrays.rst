@@ -9,6 +9,9 @@
 
     Changelog:
 
+.. meta::
+    :keywords: golang, 数组, array
+
 ====
 数组
 ====
