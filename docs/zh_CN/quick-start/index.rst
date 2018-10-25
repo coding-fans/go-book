@@ -13,6 +13,13 @@
 快速开始
 ========
 
+本文以 `OSX` 为例，介绍如何快速搭建环境进行 `Go` 语言开发。
+
+文章大部分内容对其他操作系统也是适用的，但安装部分因系统而异。
+正文以 `OSX` 为例进行演示，其他操作系统可以参考以下链接：
+
+- :doc:`linux`
+
 安装
 ====
 
@@ -123,3 +130,8 @@
 .. include:: /_fragments/next-step-to-wechat-mp.rst
 
 .. include:: /_fragments/wechat-reward.rst
+
+.. comments
+
+    - `OSX <#install-go-osx>`_
+    .. _install-go-osx:
