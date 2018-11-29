@@ -26,7 +26,7 @@
     :caption:
     :name: tour/variables.go
     :language: go
-    :lines: 13-23
+    :lines: 13-
     :linenos:
 
 作用域是啥意思呢？
@@ -46,7 +46,7 @@
     :caption:
     :name: tour/variables-with-initializers.go
     :language: go
-    :lines: 13-23
+    :lines: 13-
     :linenos:
 
 .. _variables-short-declaration:
@@ -61,7 +61,7 @@
     :caption:
     :name: tour/short-variable-declarations.go
     :language: go
-    :lines: 13-24
+    :lines: 13-
     :linenos:
 
 在函数外部，每个语句都必须由一个关键字开始(如 ``var`` 、 ``func`` 等)，

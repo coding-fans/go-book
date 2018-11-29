@@ -77,4 +77,6 @@ Linux
 
 .. include:: /_fragments/next-step-to-wechat-mp.rst
 
+.. include:: /_fragments/disqus.rst
+
 .. include:: /_fragments/wechat-reward.rst

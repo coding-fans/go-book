@@ -22,7 +22,7 @@ switch 语句
     :caption:
     :name: tour/switch.go
     :language: go
-    :lines: 13-36
+    :lines: 13-
     :linenos:
 
 `Go` 语言 `switch` 结构跟 `C` 、 `C++` 、 `Java` 、 `JavaScript` 以及 `PHP` 等类似，
@@ -42,7 +42,7 @@ switch 语句
     :caption:
     :name: tour/switch-evaluation-order.go
     :language: go
-    :lines: 13-34
+    :lines: 13-
     :linenos:
 
 举另一个例子，如果 ``i`` 的值为零，那么函数 ``f`` 就不会被调用了：
@@ -64,7 +64,7 @@ switch 语句
     :caption:
     :name: tour/switch-with-no-condition.go
     :language: go
-    :lines: 13-36
+    :lines: 13-
     :linenos:
 
 下一步

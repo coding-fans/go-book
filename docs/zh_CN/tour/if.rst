@@ -22,7 +22,7 @@ if 语句
     :caption:
     :name: tour/if.go
     :language: go
-    :lines: 13-31
+    :lines: 13-
     :linenos:
 
 初始语句
@@ -35,7 +35,7 @@ if 语句
     :caption:
     :name: tour/if-with-a-short-statement.go
     :language: go
-    :lines: 13-34
+    :lines: 13-
     :linenos:
 
 在初始语句中申明的变量，只在 `if` 结构中可见。
@@ -49,7 +49,7 @@ if-else 语句
     :caption:
     :name: tour/if-and-else.go
     :language: go
-    :lines: 13-37
+    :lines: 13-
     :linenos:
 
 .. note::

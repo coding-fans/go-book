@@ -36,7 +36,7 @@ for 语句
     :caption:
     :name: tour/for.go
     :language: go
-    :lines: 13-24
+    :lines: 13-
     :linenos:
 
 .. note::
@@ -51,7 +51,7 @@ for 语句
     :caption:
     :name: tour/for-continued.go
     :language: go
-    :lines: 13-24
+    :lines: 13-
     :linenos:
 
 实际上， `Go` 也是支持 `while` 语句的，只不过关键字还换成 `for` ：
@@ -60,7 +60,7 @@ for 语句
     :caption:
     :name: tour/for-is-gos-while.go
     :language: go
-    :lines: 13-24
+    :lines: 13-
     :linenos:
 
 无限循环
@@ -77,7 +77,7 @@ for 语句
     :caption:
     :name: tour/forever.go
     :language: go
-    :lines: 13-24
+    :lines: 13-
     :linenos:
 
 .. warning::

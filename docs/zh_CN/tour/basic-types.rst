@@ -38,7 +38,7 @@
     :caption:
     :name: tour/basic-types.go
     :language: go
-    :lines: 13-31
+    :lines: 13-
     :linenos:
 
 例子展示了几种不同类型变量的用法。
@@ -66,7 +66,7 @@
     :caption:
     :name: tour/zero.go
     :language: go
-    :lines: 13-24
+    :lines: 13-
     :linenos:
 
 类型转换
@@ -98,7 +98,7 @@
     :caption:
     :name: tour/type-conversions.go
     :language: go
-    :lines: 13-26
+    :lines: 13-
     :linenos:
 
 类型推理
@@ -130,7 +130,7 @@
     :caption:
     :name: tour/type-inference.go
     :language: go
-    :lines: 13-21
+    :lines: 13-
     :linenos:
 
 下一步

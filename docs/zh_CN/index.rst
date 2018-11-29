@@ -18,7 +18,7 @@ Go语言小册
 ==========
 
 .. toctree::
-   :maxdepth: 2
+    :titlesonly:
 
     关于 <about/index>
     快速开始 <quick-start/index>

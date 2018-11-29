@@ -24,7 +24,7 @@
     :caption:
     :name: tour/constants.go
     :language: go
-    :lines: 13-27
+    :lines: 13-
     :linenos:
 
 数值常量
@@ -39,7 +39,7 @@
     :caption:
     :name: tour/numeric-constants.go
     :language: go
-    :lines: 13-39
+    :lines: 13-
     :linenos:
 
 下一步

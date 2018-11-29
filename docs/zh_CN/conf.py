@@ -13,7 +13,7 @@
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
 import datetime
-# import os
+import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
@@ -23,6 +23,7 @@ import datetime
 project = u'Go语言小册'
 copyright = u'2018, 陈彦霏'
 author = u'陈彦霏'
+site_domain = os.environ.get('SITE_DOMAIN', 'golang-book.readthedocs.io')
 
 # The short X.Y version
 version = u'1.0'
@@ -40,6 +41,7 @@ release = u'1.0'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'sphinx.ext.autodoc',
     "sphinx.ext.mathjax",
     "sphinx_sitemap",
 ]
@@ -66,7 +68,7 @@ language = u'zh_CN'
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path .
-exclude_patterns = [u'_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = [u'_build', 'Thumbs.db', '.DS_Store', '_fragments', 'opt']
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
@@ -199,7 +201,7 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
-site_url = 'https://golang-book.readthedocs.io/zh_CN/latest/'
+site_url = 'https://%s/zh_CN/latest/' % (site_domain,)
 
 def setup(app):
     app.add_stylesheet('css/hide-ad.css')

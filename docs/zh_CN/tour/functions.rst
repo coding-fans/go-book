@@ -22,7 +22,7 @@
     :caption:
     :name: tour/functions.go
     :language: go
-    :lines: 13-25
+    :lines: 13-
     :linenos:
 
 在这个例子中， ``add`` 函数接受两个整型( ``int`` )参数。
@@ -42,7 +42,7 @@
     :caption:
     :name: tour/multiple-results.go
     :language: go
-    :lines: 13-26
+    :lines: 13-
     :linenos:
 
 命名返回值
@@ -55,7 +55,7 @@
     :caption:
     :name: tour/named-results.go
     :language: go
-    :lines: 13-27
+    :lines: 13-
     :linenos:
 
 一个不带任何参数的 ``return`` 语句返回所有命名返回值，

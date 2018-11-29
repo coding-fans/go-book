@@ -18,7 +18,10 @@
 文章大部分内容对其他操作系统也是适用的，但安装部分因系统而异。
 正文以 `OSX` 为例进行演示，其他操作系统可以参考以下链接：
 
-- :doc:`linux`
+.. toctree::
+    :titlesonly:
+
+    Linux <linux>
 
 安装
 ====
@@ -59,7 +62,7 @@
     :caption:
     :name: quick-start/hello/main.go
     :language: go
-    :lines: 13-20
+    :lines: 13-
     :linenos:
 
 这个程序非常简单，先引入 ``fmt`` 包，然后在 ``main`` 函数中向屏幕输出 ``Hello, 世界`` 。
@@ -128,6 +131,8 @@
 ======
 
 .. include:: /_fragments/next-step-to-wechat-mp.rst
+
+.. include:: /_fragments/disqus.rst
 
 .. include:: /_fragments/wechat-reward.rst
 

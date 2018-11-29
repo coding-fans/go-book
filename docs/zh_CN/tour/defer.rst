@@ -25,7 +25,7 @@ defer 语句
     :caption:
     :name: tour/defer.go
     :language: go
-    :lines: 13-22
+    :lines: 13-
     :linenos:
 
 对，就是这么简单！
@@ -40,7 +40,7 @@ defer栈
     :caption:
     :name: tour/defer-multi.go
     :language: go
-    :lines: 13-26
+    :lines: 13-
     :linenos:
 
 下一步
