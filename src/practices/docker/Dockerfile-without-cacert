@@ -1,0 +1,5 @@
+FROM scratch
+ENV TZ=Asia/Shanghai
+ADD zoneinfo.tar.gz /
+ADD demo /
+CMD ["/demo"]

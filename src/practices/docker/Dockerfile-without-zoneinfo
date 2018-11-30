@@ -1,0 +1,4 @@
+FROM scratch
+ENV TZ=Asia/Shanghai
+ADD demo /
+CMD ["/demo"]
