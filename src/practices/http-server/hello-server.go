@@ -29,5 +29,6 @@ func main() {
         Handler: HelloHandler{},
     }
 
+    log.Println("Server starting...")
     log.Fatal(server.ListenAndServe())
 }
