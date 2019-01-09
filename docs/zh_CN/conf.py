@@ -17,12 +17,13 @@ import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+now = datetime.datetime.now()
 
 # -- Project information -----------------------------------------------------
 
 project = u'Go语言小册'
-copyright = u'2018, 陈彦霏'
-author = u'陈彦霏'
+copyright = u'%d, <a href="https://fasionchan.com">fasionchan</a>' % (now.year,)
+author = u'fasionchan'
 site_domain = os.environ.get('SITE_DOMAIN', 'golang-book.readthedocs.io')
 
 # The short X.Y version
@@ -176,7 +177,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'Go.tex', u'Go语言小册 Documentation',
-     u'陈彦霏', 'manual'),
+     u'fasionchan', 'manual'),
 ]
 
 

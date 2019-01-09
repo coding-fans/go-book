@@ -19,6 +19,7 @@
     调用C库函数 <cgo>
     Docker化部署 <docker>
     发起HTTP请求 <http-request>
+    提供HTTP服务 <http-server>
     Json序列化 <jsonify>
 
 .. comments

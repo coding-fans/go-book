@@ -25,6 +25,7 @@ Go语言小册
     Go语言之旅 <tour/index>
     最佳实践 <practices/index>
     附录 <appendices/index>
+    鸣谢 <acknowledgements/index>
 
 .. comments
     comment something out below
