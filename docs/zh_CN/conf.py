@@ -92,6 +92,7 @@ html_theme_options = {
     'logo': 'logo.jpg',
     #'logo_name': True,
     'description': u'简明Go语言小册子，涵盖基础语法、代码风格以及最佳实践。',
+    'canonical_url': ('https://' + site_domain + '/zh_CN/latest/'),
 
     'font_family': ','.join(map(repr, [
         'Arial',
@@ -137,6 +138,7 @@ html_sidebars = {
         'more.html',
         #'sf-namecard-fasionchan.html',
         'wechat-mp-qrcode.html',
+        'course-ad2.html',
         #'donate.html',
 
         #'reward.html',
